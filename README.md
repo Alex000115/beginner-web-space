@@ -1,2 +1,21 @@
-# beginner-web-space
-A simple browser-only project for beginners to store notes, track learning, and practice daily GitHub commits.
+# Beginner Web Space
+
+This is a very easy project for beginners.
+
+You can use this repository to:
+- Store simple notes
+- Track learning progress
+- Practice editing files
+- Build a habit of GitHub commits
+
+How to use:
+1. Open any file
+2. Add a small update
+3. Save the file
+4. Commit your change
+
+Goal:
+Learn something small every day.
+
+Notes:
+Write your notes below.
